@@ -2,8 +2,10 @@
   "name": "bookshop",
   "version": "0.0.0",
   "private": true,
+  "main": "app.js",
+  "author": "Abrorbek",
   "scripts": {
-    "start": "node ./app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
